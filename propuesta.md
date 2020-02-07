@@ -1,10 +1,10 @@
-% Videoclub "Los Pajaritos"
-% Ricardo Pérez
+% PicturMar
+% Maria del Mar Vazquez Rodriguez
 % Curso 2019/20
 
 # Descripción general del proyecto
 
-Explicar.
+La aplicación permitirá a un usuario poder compartir fotos y videos con los otros usuarios. Podrá comentar sobre las fotos de otros usuarios.
 
 ## Funcionalidad principal de la aplicación
 
@@ -12,15 +12,13 @@ Explicar.
 
 ## Objetivos generales
 
-A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
+Gestionar el registro y logueo de usuarios.
+Gestionar la insercción, modificación y borrado de imagenes por un usuario 'admin'.
+Gestionar los comentarios de cualquier usuario.
+Gestionar la subida de archivos.
+Cada usuario podrá gestionar su area personal.
 
-Por ejemplo:
-
-* Objetivo: "gestionar los alquileres y las devoluciones de las películas".
-* Casos de uso: "alquilar una película", "devolver una película".
 
 # Elemento de innovación
 
-Aspecto, función o tecnología novedosa o innovadora no tratada directamente
-en clase y que será necesario investigar para desarrollar adecuadamente el
-Proyecto.
+Uso de la tecnología Google Maps para añadir la ubicacion de las fotos.
