@@ -1,4 +1,4 @@
-% PicturMar
+% Go!
 % Maria del Mar Vazquez Rodriguez
 % Curso 2019/20
 
