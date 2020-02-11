@@ -25,3 +25,4 @@ Buscar a otro usuario.
 # Elemento de innovación
 
 Uso de la tecnología Google Maps para añadir la ubicacion de las fotos.
+Amazon web Service para el guardado de datos.
